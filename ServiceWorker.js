@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-Test-0.1.0";
+const cacheName = "DefaultCompany-RunAway-0.1.0";
 const contentToCache = [
     "Build/Build.loader.js",
     "Build/Build.framework.js",

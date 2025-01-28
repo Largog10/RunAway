@@ -1,6 +1,6 @@
 {
-    "name": "Test",
-    "short_name": "Test",
+    "name": "RunAway",
+    "short_name": "RunAway",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
