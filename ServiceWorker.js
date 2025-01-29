@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-RunAway-0.1.1";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js",
-    "Build/Build.data",
-    "Build/Build.wasm",
+    "Build/RunAway.loader.js",
+    "Build/RunAway.framework.js",
+    "Build/RunAway.data",
+    "Build/RunAway.wasm",
     "TemplateData/style.css"
 
 ];
